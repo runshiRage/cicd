@@ -1,0 +1,6 @@
+/.vs
+*.a       
+!lib.a    
+/TODO     
+build/    
+doc/*.txt 
